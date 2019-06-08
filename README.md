@@ -1,2 +1,3 @@
-# geetopod-client-java
-geetoPod - Java Client
+![geetoPod - Identiy Solutions](https://github.com/geetopod/geetopod/raw/master/resources/images/geetopod-banner-96.png)
+
+# Java Client
